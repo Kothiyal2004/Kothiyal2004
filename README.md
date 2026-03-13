@@ -1,46 +1,69 @@
-# Hi, I'm Rachita
+# Hi there, I'm Rachita Kothiyal👋
 
-Python Backend Developer focused on building scalable systems.
+## 👩‍💻 About Me
 
-Interested in:
-- Backend Architecture
-- Async Python Systems
-- AI/ML and NLP
-- Data Processing Pipelines
+I am a Python Developer interested in backend engineering and scalable systems.
+Currently exploring **AI/ML, NLP, and data-driven applications** while building projects in Python.
+
+My focus areas include:
+
+* Backend development using Python
+* Asynchronous systems and APIs
+* Data processing and machine learning experimentation
+* Building practical projects to solve real-world problems
 
 ---
 
-## Technical Stack
+## 🛠️ Technologies & Tools
 
 **Languages**
-- Python
-- SQL
 
-**Backend**
-- FastAPI
-- Flask
-- AsyncIO
+* Python
+* SQL
+* C / C++
 
-**Data & AI**
-- Pandas
-- NumPy
-- Scikit-learn
+**Backend & Frameworks**
+
+* FastAPI
+* Flask
+* AsyncIO
+
+**Data Science & AI/ML**
+
+* Pandas
+* NumPy
+* Scikit-learn
+* TensorFlow (basic experimentation)
 
 **Tools**
-- Git
-- Linux
-- Docker
+
+* Git
+* Linux
+* Docker (learning)
+
+**Databases**
+
+* MySQL
 
 ---
 
-## Current Focus
+## 🚀 Projects
 
-- Building scalable backend systems
-- Queue and worker architectures
-- LLM and NLP experimentation
+Here are some projects I am working on:
+***Employee Management System
+***Customer Churn Prediction using AIML
+---
+
+## 🌱 Currently Learning
+
+* Advanced Backend Architecture
+* Distributed Systems Concepts
+* Machine Learning & NLP pipelines
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
-LinkedIn: (add link)
+* LinkedIn: https://www.linkedin.com/in/rachita-kothiyal-082680255/
+* GitHub: https://github.com/Kothiyal2004/Kothiyal2004/
+* Email: rachitakothiyal4@gmail.com  
