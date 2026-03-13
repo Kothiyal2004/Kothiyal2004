@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Rachita
 
-<!--
-**Kothiyal2004/Kothiyal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer focused on building scalable systems.
 
-Here are some ideas to get you started:
+Interested in:
+- Backend Architecture
+- Async Python Systems
+- AI/ML and NLP
+- Data Processing Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Stack
+
+**Languages**
+- Python
+- SQL
+
+**Backend**
+- FastAPI
+- Flask
+- AsyncIO
+
+**Data & AI**
+- Pandas
+- NumPy
+- Scikit-learn
+
+**Tools**
+- Git
+- Linux
+- Docker
+
+---
+
+## Current Focus
+
+- Building scalable backend systems
+- Queue and worker architectures
+- LLM and NLP experimentation
+
+---
+
+## Connect With Me
+
+LinkedIn: (add link)
